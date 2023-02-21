@@ -1,0 +1,83 @@
+html {
+    margin: 0;
+}
+
+.container_title {
+    background-color: rgb(226, 34, 0);
+}
+
+.imgLuchador img {
+    display: block;
+    margin: auto;
+    width: 15rem;
+}
+
+@media (min-width: 480px) {
+    .imgLuchador img {
+        width: 15rem;
+    }
+}
+
+.title_luchador {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+    width: 100%;
+}
+
+.banner {
+    background-color: rgb(0, 112, 216);
+}
+
+.contenido {
+    display: block;
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-size: 1.1rem;
+    line-height: 1.7rem;
+    width: 85%;
+}
+
+@media (min-width: 480px) {
+    .contenido {
+        font-size: 2rem;
+        line-height: 2.7rem;
+        width: 70%;
+    }
+}
+
+.banner h2 {
+    padding: 3.5rem 0 0 0;
+}
+
+.banner h2,
+h3 {
+    font-size: 3rem;
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+}
+
+.contenido p {
+    padding: 0 0 5rem 0;
+}
+
+.banner-pago .contenido {
+    color: black;
+}
+
+footer h2 {
+    background-color: black;
+    color: white;
+    font-family: 'Russo One', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+@media (min-width: 480px) {
+    footer h2 {
+        font-size: 5rem;
+        padding: 1rem;
+    }
+}
