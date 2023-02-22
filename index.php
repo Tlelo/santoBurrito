@@ -32,8 +32,8 @@
                 <br>
             </p>
             <p class="card-text"><strong>Precio: $40</strong></p>
-                <div class="d-grid gap-1">
-                    <button class="btn btn-success" type="button">Ordenar</button>
+            <div class="d-grid gap-1">
+                    <a href="https://wa.me/5619404518?text=Hola%20estoy%20interesado%20por%20el%20burrito%20de%20machaca" class="btn btn-success btn-formato">Ordenar</a>                
                 </div>
         </div>
   </div>
@@ -53,8 +53,8 @@
                 <br>
             </p>
             <p class="card-text"><strong>Precio: $40</strong></p>
-                <div class="d-grid gap-1">
-                    <button class="btn btn-success" type="button">Ordenar</button>
+            <div class="d-grid gap-1">
+                    <a href="https://wa.me/5619404518?text=Hola%20estoy%20interesado%20por%20el%20burrito%20de%20papas%20con%20chorizo" class="btn btn-success btn-formato">Ordenar</a>                
                 </div>
         </div>
     
@@ -76,7 +76,7 @@
             </p>
             <p class="card-text"><strong>Precio: $40</strong></p>
                 <div class="d-grid gap-1">
-                    <button class="btn btn-success" type="button">Ordenar</button>
+                    <a href="https://wa.me/5619404518?text=Hola%20estoy%20interesado%20por%20el%20burrito%20mixto" class="btn btn-success btn-formato">Ordenar</a>                
                 </div>
         </div>
     </div>
@@ -100,6 +100,13 @@
         <h1>Aceptamos trasferencias.</h1>
         <h2>Número de cuenta</h2>
         <h3>5204165186088393</h3>
+    </div>
+</div>
+
+<div class="banner-promo">
+    <div class="contenido">        
+        <h1>Coca-Cola en $19 </h1>
+        <h2>En la compra de una orden(hasta agotar existencias)</h2>
     </div>
 </div>
     

@@ -6,6 +6,12 @@ html {
     background-color: rgb(226, 34, 0);
 }
 
+.d-grid .btn-formato {
+    padding: 1rem 0;
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
 .imgLuchador img {
     display: block;
     margin: auto;
@@ -26,7 +32,7 @@ html {
 }
 
 .banner {
-    background-color: rgb(0, 112, 216);
+    background-color: #396f95;
 }
 
 .contenido {
@@ -64,6 +70,12 @@ h3 {
 
 .banner-pago .contenido {
     color: black;
+}
+
+.banner-promo {
+    font-family: 'Russo One', sans-serif;
+    background-color: rgb(226, 34, 0);
+    padding: 3rem;
 }
 
 footer h2 {
