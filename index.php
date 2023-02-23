@@ -21,7 +21,7 @@
         <p class="card-text">Orden de 3 Burritos de machaca.<br>
                 <strong>Contiene:</strong>
                 <br>-Papas. 
-                <br>-Jitomate.
+                <br>-Tómate.
                 <br>-Frijoles puercos.        
                 <br>-Queso Chihuahua.
                 <br>-Macaha casera.
@@ -66,7 +66,7 @@
             <p class="card-text">Orden de 2 Burritos de machaca y 1 de Chorizo con papas.<br>
                 <strong>Contiene:</strong>
                 <br>-Papas. 
-                <br>-Jitomate.
+                <br>-Tómate.
                 <br>-Frijoles puercos.  
                 <br>-Machaca casera.      
                 <br>-Queso Chihuahua.
