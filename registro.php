@@ -11,10 +11,14 @@
             </div>
 
             <h2 class="fw-bold text-center py-1" style ="font-size:4rem">Registrate.</h2>
-            <h3 class="fw-normal text-center py-1" style ="font-size:1.7rem">!Y obten beneficios¡</h3>
+            <h3 class="fw-normal text-center py-1" style ="font-size:1.7rem">!Y obtén beneficios¡</h3>
 
             <!--    LOGIN   -->
             <form action="#">
+                <div class="mb-4">
+                    <label for="nombre" class="form-label" style ="font-size:1.4rem">Nombre</label>
+                    <input type="text" class="form-control" name="email">
+                </div>
                 <div class="mb-4">
                     <label for="tel" class="form-label" style ="font-size:1.4rem">Teléfono</label>
                     <input type="tel" class="form-control" name="email">

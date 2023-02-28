@@ -13,7 +13,7 @@
             <h2 class="fw-bold text-center py-4" style ="font-size:4rem">Bienvenido</h2>
 
             <!--    LOGIN   -->
-            <form action="#">
+            <form action="#">                
                 <div class="mb-4">
                     <label for="tel" class="form-label" style ="font-size:1.4rem">Teléfono</label>
                     <input type="tel" class="form-control" name="email">
