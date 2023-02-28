@@ -3,7 +3,8 @@ html {
 }
 
 .container_title {
-    background-color: rgb(226, 34, 0);
+    background: rgb(226, 7, 0);
+    background: linear-gradient(to right, #ED1811, #BA1B12);
 }
 
 .d-grid .btn-formato {
